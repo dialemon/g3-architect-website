@@ -17,6 +17,11 @@
 .text-light-gray{
     color: #727272;
 }
+.section-title{
+    font-size: 3rem;
+    font-weight: 700;
+    color: #131313;
+}
 
 /* header styles */
 header{
@@ -28,11 +33,7 @@ nav{
     justify-content: space-between;  
     align-items: center;
 }
-.nav-title{
-    font-size: 3rem;
-    font-weight: 700;
-    color: #131313;
-}
+
 nav > ul {
     display: flex;
 }
